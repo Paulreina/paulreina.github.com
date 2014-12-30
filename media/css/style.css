@@ -16,7 +16,6 @@
 body{font: 16px "Lora","STSong","NSimSun",serif;line-height: 1.7em;color: #38342b;background: #fafafa;border-top: 5px solid #38342b;}
 *{padding:0;margin: 0;border:none;outline:none;}
 a{color: #800;text-decoration: none;border-bottom: 1px dotted #800;}
-a:hover{text-decoration:underline;}
 hr{margin:.7em 0;border-top:1px dashed #d0d0d0;border-bottom:1px dashed #f9f9f9;}
 p{padding:.5em 0;}
 li{padding:.2em 0;}
@@ -33,7 +32,7 @@ blockquote p{margin:0;padding:.5em 0;}
 #tag_cloud{margin-bottom: 1em;}
 #tag_cloud a:hover{color:#333333 !important;text-decoration:none;}
 .listing-item,.listing-seperator{list-style-type:none;}
-.listing-item a{padding:.2em 1em;}
+.listing-item a{margin:.2em 1em;}
 .listing-item time{color:#999999;}
 .listing-seperator{font-weight:bold;}
 .meta{text-align:right;font-size:12px;}
