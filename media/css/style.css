@@ -15,8 +15,8 @@
 /*body{font-size:14px;font-family:"Galdeano","Hiragino Sans GB","Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;color:#000000;background-color:#ffffff;}*/
 body{font: 16px "Lora","STSong","NSimSun",serif;line-height: 1.7em;color: #38342b;background: #fafafa;border-top: 5px solid #38342b;}
 *{padding:0;margin: 0;border:none;outline:none;}
-a{color:#dd0000;text-decoration:none;}
-a:hover{color:#333333;text-decoration:underline;}
+a{color: #800;text-decoration: none;border-bottom: 1px dotted #800;}
+a:hover{text-decoration:underline;}
 hr{margin:.7em 0;border-top:1px dashed #d0d0d0;border-bottom:1px dashed #f9f9f9;}
 p{padding:.5em 0;}
 li{padding:.2em 0;}
